@@ -6,7 +6,7 @@ This project is a data analytics dashboard that explores Solana blockchain token
 
 ---
 
-## 📊 Features
+## Features
 
 - Upload and analyze Solana token transaction CSV files
 - Visualize:
@@ -18,7 +18,7 @@ This project is a data analytics dashboard that explores Solana blockchain token
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - **Python** (pandas, seaborn, matplotlib)
 - **Streamlit** for the web interface
