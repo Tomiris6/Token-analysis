@@ -3,7 +3,7 @@
 This project is a data analytics dashboard that explores Solana blockchain token transactions. It provides interactive visualizations and insights using a Streamlit web application.
 
 🔗 **Live Demo**: [Click here to view the deployed app](https://token-analysis-brdxvgt38vuyyqtkwmtrg8.streamlit.app/)
-
+To try it out, upload a CSV file from this repository into the demo.
 ---
 
 ## Features
