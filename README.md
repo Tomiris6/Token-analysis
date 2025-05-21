@@ -1,4 +1,4 @@
-# 🧮 Solana Token Transaction Analysis
+# Solana Token Transaction Analysis
 
 This project is a data analytics dashboard that explores Solana blockchain token transactions. It provides interactive visualizations and insights using a Streamlit web application.
 
